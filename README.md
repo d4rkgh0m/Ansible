@@ -189,7 +189,7 @@ nginx : ok=6 changed=5 unreachable=0 failed=0
 
 
 
-   Ссылка на мой образ https://app.vagrantup.com/darkghom/boxes/centos8-kernel6/versions/1.0/providers/virtualbox/unknown/vagrant.box
+   
 
 
 
