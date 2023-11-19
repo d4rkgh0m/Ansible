@@ -42,7 +42,7 @@
    
    создаем папку staging и в ней папку hosts 
    
-   внутри папки hosts создаем invenory.yml со следющим содержимым исходя из параметров хоста 
+   внутри папки hosts создаем inventory.yml со следющим содержимым исходя из параметров хоста 
 
    [web]
    nginx ansible_host=127.0.0.1 ansible_port=2222 ansible_user=vagrant ansible_private_key_file=.vagrant/machines/nginx/virtualbox/private_key
